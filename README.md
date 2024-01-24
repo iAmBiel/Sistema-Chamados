@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+## Chamados
+The objective of this project is to create tickets in which you can monitor the progress, allowing the registration of a company and the subsequent creation of a ticket with the desired specifications.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technology 
 
-## Available Scripts
+Here are the technologies used in this project.
 
-In the project directory, you can run:
+* React
+* CSS
 
-### `npm start`
+## Services Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Github
+* Firebase
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project Images
 
-### `npm test`
+### 1 - Sign up
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![1](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/c7dd99d0-b655-4fb0-b26b-00d09a9caf1e)
 
-### `npm run build`
+### 2 - Sign in
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![2](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/7916bbb6-e76c-4f47-abf2-6a2bf232e5eb)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3 - Dashboard
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![3](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/8e5e77d6-c250-4dab-b771-18fe3443e212)
 
-### `npm run eject`
+### 4 - Customers
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![4](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/71cf9d1e-9347-4247-a001-b5c620366804)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5 - Modal Detail
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![5](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/2648809b-c882-404e-8a90-45c7302bd750)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 6 - Profile
 
-## Learn More
+![4](https://github.com/iAmBiel/Sistema-Chamados/assets/107372647/76d16cb9-61c1-4b53-8db1-b0e3897b1390)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Authors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* **Gabriel Vieira Marques** 
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please follow github!
+Thanks to visiting me and good coding!
